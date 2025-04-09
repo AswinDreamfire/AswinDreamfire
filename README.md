@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**AswinDreamfire/AswinDreamfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AswinDreamfire/AswinDreamfire** 
 
 
 - 🔭 I’m currently working on my own personal porject in stock market investment tool.
