@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**AswinDreamfire/AswinDreamfire** 
+**AswinDreamfire** 
 
 
 - 🔭 I’m currently working on my own personal porject in stock market investment tool.
